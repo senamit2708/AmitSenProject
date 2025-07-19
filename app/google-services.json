@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421288139434",
+    "project_id": "amitpersistent-52d18",
+    "storage_bucket": "amitpersistent-52d18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421288139434:android:b7ae931eb447de12954ed3",
+        "android_client_info": {
+          "package_name": "smit.aen.amitsenproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3DB8_6xh8GPuG4cpb0OQhhVjzfk10-Do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
